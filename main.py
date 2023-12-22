@@ -1,4 +1,5 @@
-from pyrogram import Client, filters
+from pyrogram import Client
+from pyrogram import filters
 
 import youtube_dl
 from youtube_search import YoutubeSearch

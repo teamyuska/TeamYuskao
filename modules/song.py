@@ -10,9 +10,9 @@ from config import Config
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 ABS="Developer"
-APPER="shamilhabeeb"
-OWNER="Owner"
-GITCLONE="github.com/shamilhabeebnelli/song-bot"
+APPER="Y7SKA"
+OWNER="Y7SKA"
+GITCLONE="github.com/TeamYuska/song-bot"
 B2="telegram.dog/shamilhabeeb"
 BUTTON1="📜 Source Code 📜"
 
